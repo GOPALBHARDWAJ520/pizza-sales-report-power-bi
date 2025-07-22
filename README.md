@@ -30,6 +30,15 @@ The following KPIs are calculated:
 
 ## 📊 Dashboard Visuals
 
+
+<img width="1365" height="725" alt="image" src="https://github.com/user-attachments/assets/d14e2a22-6cfb-4c77-a257-78c67606f22a" />
+
+
+
+<img width="1410" height="732" alt="image" src="https://github.com/user-attachments/assets/efd51bb4-48fc-49f9-9d1a-08490145ec88" />
+
+
+
 ### 📈 Trends
 
 - **Daily Trend for Total Orders**: Bar chart of orders per day.
