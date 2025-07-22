@@ -31,7 +31,7 @@ The following KPIs are calculated:
 ## 📊 Dashboard Visuals
 
 
-<img width="1365" height="725" alt="image" src="https://github.com/user-attachments/assets/d14e2a22-6cfb-4c77-a257-78c67606f22a" />
+<img width="1365" height="725" alt="image" src="https://github.com/user-attachments/assets/d14e2a22-6cfb-4c77-a257-78c67606f22a" /><BR>
 
 
 
